@@ -51,8 +51,8 @@
 </html>
 
 
-<!-- clases para botón cargando 
+<!-- clases para botón cargando con bootstrap
 <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
 <span class="visually-hidden">Loading...</span>
-Iniciando sesión 
+Validando datos
 -->
